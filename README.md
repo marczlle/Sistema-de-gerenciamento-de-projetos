@@ -5,6 +5,11 @@ Sistema de gerenciamento de projetos de uma empresa desenvolvido como atividade 
 Java Script, node.js (v20.11.1)
 TypeScript. 
 
+## Diagrama de classes:
+
+![image](https://github.com/user-attachments/assets/3efa25cf-0ddd-4702-833f-6e1f9e1097dc)
+
+
 ## Package manager:
 
 mysql2
