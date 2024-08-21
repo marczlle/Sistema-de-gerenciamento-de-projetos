@@ -26,7 +26,7 @@ Ao escolher seu cargo e realizar autenticação, o menu é exibido:
 
 ![image](https://github.com/user-attachments/assets/bcdcd7ae-0ac6-45d2-a60d-7f75a381e03a)
 
-Esse sistema da possibilidade de:
+Esse sistema (como admin) dá a possibilidade de:
 - Inserir funcionário;
 - Editar funcionário;
 - Inserir projeto;
@@ -34,6 +34,10 @@ Esse sistema da possibilidade de:
 - Inserir alocação;
 - Editar alocação;
 - Fazer as 3 consultas: consulta de funcionários, consulta das alocações, consulta dos projetos.
+
+O sistema (como funcionário) dá a possibilidade de:
+- Consultar os projetos alocados a ele;
+- Consultar os projetos alocados na equipe;
 
 ![image](https://github.com/user-attachments/assets/dfe66804-0926-43a8-a2db-52e81542267a)
 
