@@ -59,6 +59,6 @@ O sistema (como funcionário) dá a possibilidade de:
 Marcelle de Paula: @marczlle,
 Thiago Portela: @ThiagoPortela23,
 José Rogério: @byrogeriosev,
-Jamerson cunha.
+Jamerson cunha: JamCunha1.
 
 
